@@ -10,7 +10,7 @@ This repository contains a **HOSTS** file designed to block internet connections
 ### 🖥️ Manual Installation
 1. **Download the latest HOSTS file**
    ```sh
-   wget https://raw.githubusercontent.com/anttitane/hosts-list-to-block-internet/main/hosts -O /etc/hosts
+   wget https://raw.githubusercontent.com/anttitane/hosts-list-to-block-internet/main/hosts.txt -O /etc/hosts
    ```
 
 2. **Apply the changes:**
